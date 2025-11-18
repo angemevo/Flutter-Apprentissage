@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "441669695017",
+    "project_id": "playtasks-4ea5d",
+    "storage_bucket": "playtasks-4ea5d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441669695017:android:6b364f87ba18c013f74e38",
+        "android_client_info": {
+          "package_name": "com.example.task_games"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441669695017-qm3u2516c3kkclo8no8kljg5imuuuat6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.task_games",
+            "certificate_hash": "5c2b998430212760463b2674b5d75a7dd6f38fef"
+          }
+        },
+        {
+          "client_id": "441669695017-519tiof8c8edtvp05f8g5nvl4bj9nkt7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY6gkDbb7M6ceP0ZV81_pmWjROdqIcvOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441669695017-519tiof8c8edtvp05f8g5nvl4bj9nkt7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "441669695017-f1hj1sn8p3gegfu22ua0ksmaofh775gi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.taskGames"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
